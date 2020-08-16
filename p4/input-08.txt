@@ -1,0 +1,6 @@
+contestant player-02 Cindy Fry
+contestant player-04 Bob Vargas
+contestant player-03 Jeff Donahoo
+contestant player-01 Bill Poucher
+list contestants
+quit

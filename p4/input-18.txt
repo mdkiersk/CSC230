@@ -1,0 +1,12 @@
+problem polygon Simple Polygon
+problem woodcutting Wood Cutting
+problem artur Artur
+problem shortestpath3 Single source shortest path, negative weights
+problem probedroids Probe Droids
+contestant norene Norene Weiss
+contestant mirna Mirna Collins
+contestant linda Linda Sloan
+contestant meredith Meredith Henderson
+contestant jeanne Jeanne Robbins
+list problems
+quit

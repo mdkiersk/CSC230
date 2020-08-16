@@ -1,0 +1,33 @@
+1> 
+2> 
+3> 
+4> 
+5> 
+6> 
+7> 
+8> 
+9> 
+10> 
+11> 
+12> 
+13> 
+14> 
+15> 
+16> 
+17> 
+18> 
+ID               Name                                     Solutions  Attempts
+help2            Help!                                            3         3
+yikes            Yikes - Bikes!                                   2         2
+mathhomework     Math Homework                                    1         1
+hello            Hello World!                                     0         0
+hrpa             Hrpa                                             0         0
+mincostmaxflow   Minimum Cost Maximum Flow                        0         0
+niceprefixes     Nice Prefixes                                    0         0
+19> 
+ID               Name                                        Solved   Penalty
+player-02        Cindy Fry                                        3         0
+player-03        Jeff Donahoo                                     2         0
+player-04        Bob Vargas                                       1         0
+player-01        Bill Poucher                                     0         0
+20> 

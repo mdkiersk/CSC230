@@ -1,0 +1,27 @@
+problem mincostmaxflow Minimum Cost Maximum Flow
+problem yikes Yikes - Bikes!
+problem hello Hello World!
+problem mathhomework Math Homework
+problem niceprefixes Nice Prefixes
+problem hrpa Hrpa
+problem help2 Help!
+contestant player-04 Bob Vargas
+contestant player-01 Bill Poucher
+contestant player-03 Jeff Donahoo
+contestant player-02 Cindy Fry
+attempt player-02 help2
+solved player-04 help2
+attempt player-03 help2
+attempt player-01 mincostmaxflow
+solved player-03 help2
+solved player-02 help2
+attempt player-02 yikes
+solved player-03 hrpa
+solved player-02 yikes
+solved player-02 mathhomework
+attempt player-01 mincostmaxflow
+solved player-03 yikes
+solved player-01 mincostmaxflow
+list problems
+list contestants
+quit

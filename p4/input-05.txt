@@ -1,0 +1,9 @@
+problem hello Hello World!
+problem help2 Help!
+problem mincostmaxflow Minimum Cost Maximum Flow
+problem mathhomework Math Homework
+problem yikes Yikes - Bikes!
+problem hrpa Hrpa
+problem niceprefixes Nice Prefixes
+list problems
+quit

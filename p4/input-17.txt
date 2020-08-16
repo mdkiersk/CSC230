@@ -1,0 +1,12 @@
+problem redrover Red Rover
+problem greetings Greetings!
+problem britishmenu British Menu
+problem borgboogie Borg Boogie
+problem redrover Revenge of Red Rover
+contestant hanna Lazaro Hanna
+contestant alvarez Penny Alvarez
+contestant mcneil Ingrid Mcneil
+contestant carrillo Marlena Carrillo
+contestant nixon Angelique Nixon
+list problems
+quit

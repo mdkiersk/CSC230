@@ -1,0 +1,18 @@
+1> 
+2> 
+3> 
+4> 
+5> 
+6> 
+7> 
+8> 
+9> 
+10> 
+Invalid command
+11> 
+ID               Name                                        Solved   Penalty
+angelique        Angelique Burton                                 0         0
+cathie           Cathie Donaldson                                 0         0
+phoebe           Phoebe Campbell                                  0         0
+sonja            Sonja Roth                                       0         0
+12> 

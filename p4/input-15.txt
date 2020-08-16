@@ -1,0 +1,12 @@
+problem numbertree Numbers On a Tree
+problem infiniteslides Infinite Slides
+problem securitybadge Security Badge
+problem bottles Curvy Little Bottles
+problem subwayplanning Subway Planning
+contestant contestant-cory Cory Costa
+contestant contestant-jami Jami Cohen
+contestant contestant-mervin Mervin Levy
+contestant contestant-elton Elton Blake
+contestant contestant-albina Albina Duncan
+list contestants
+quit

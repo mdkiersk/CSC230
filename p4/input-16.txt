@@ -1,0 +1,12 @@
+problem risk Risk
+problem floppy Floppy Music
+problem names Palindrome Names
+problem pravokutni Pravokutni
+problem foosball Foosball Dynasty
+contestant cathie Cathie Donaldson
+contestant angelique Angelique Burton
+contestant sonja Sonja Roth
+contestant phoebe Phoebe Campbell
+contestant cathie Cathie Petty
+list contestants
+quit

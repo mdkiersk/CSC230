@@ -1,0 +1,18 @@
+1> 
+2> 
+3> 
+4> 
+5> 
+Invalid command
+6> 
+7> 
+8> 
+9> 
+10> 
+11> 
+ID               Name                                     Solutions  Attempts
+borgboogie       Borg Boogie                                      0         0
+britishmenu      British Menu                                     0         0
+greetings        Greetings!                                       0         0
+redrover         Red Rover                                        0         0
+12> 

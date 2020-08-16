@@ -1,0 +1,9 @@
+1> 
+2> 
+3> 
+4> 
+ID               Name                                     Solutions  Attempts
+clockpictures    Clock Pictures                                   0         0
+fairwarning      Fair Warning                                     0         0
+virus            Virus Replication                                0         0
+5> 
