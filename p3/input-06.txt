@@ -1,0 +1,6 @@
+This is a little file, with a lot
+of words that are on the list of
+100 most common words in English.
+There are also some less common
+words that any English speaker
+would probably still know.

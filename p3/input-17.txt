@@ -1,0 +1,3 @@
+The program will never get a chance to look at this
+file, since the word list we use with it has a couple
+of invalid words.

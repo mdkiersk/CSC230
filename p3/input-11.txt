@@ -1,0 +1,9 @@
+In this file, we have some lines that are longer than 75 characters, but this time
+I tried to make sure some words fall right across the 75-character limit, so we
+won't be able to check those words.
+
+You can see the difference here.  When th or s show up somewhere in the middle of a
+line, we can spellcheck them, since "th" and "s" aren't legal words.  However when
+we just see part of a word at the end of a line, we don't spellcheck that.
+Maybe the extra characters that got chopped of at the end of the word would have
+made it a legal word.   Who's to say?

@@ -1,0 +1,6 @@
+This is a little [31mfile[0m, with a lot
+of [31mwords[0m that are on the list of
+100 most common [31mwords[0m in [31mEnglish[0m.
+There are also some less common
+[31mwords[0m that any [31mEnglish[0m [31mspeaker[0m
+would [31mprobably[0m still know.

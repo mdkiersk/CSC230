@@ -1,0 +1,31 @@
+[34mColumbia[0m [34mLafayette[0m [34mMeridian[0m [34mNaperville[0m [34mGarland[0m [34mVancouver[0m [34mCarrollton[0m
+[34mLincoln[0m [34mColumbus[0m [34mHenderson[0m [34mLexington[0m [34mSurprise[0m [34mRenton[0m [34mBridgeport[0m [34mFrisco[0m
+[34mAnchorage[0m [34mAkron[0m [34mMinneapolis[0m [34mFontana[0m [34mAlexandria[0m [34mLouisville[0m [34mThornton[0m
+[34mGilbert[0m [34mMiami[0m [34mBirmingham[0m [34mMurfreesboro[0m [34mSavannah[0m [34mSyracuse[0m [34mAllentown[0m
+[34mWilmington[0m [34mAmarillo[0m [34mAustin[0m [34mHonolulu[0m [34mCleveland[0m [34mSalinas[0m [34mBakersfield[0m
+[34mModesto[0m [34mOxnard[0m [34mRockford[0m [34mOmaha[0m [34mInglewood[0m [34mOrange[0m [34mKnoxville[0m [34mVisalia[0m
+[34mWichita[0m [34mFayetteville[0m [34mOlathe[0m [34mChicago[0m [34mBaltimore[0m [34mChandler[0m [31mfARGO[0m [34mVallejo[0m
+[34mStockton[0m [34mCharlotte[0m [34mBellevue[0m [34mDenton[0m [34mNorwalk[0m [34mTyler[0m [34mPhoenix[0m [34mNorman[0m
+
+[34mLewisville[0m [34mPasadena[0m [34mPittsburgh[0m [34mAtlanta[0m [34mShreveport[0m [34mSparks[0m [34mLancaster[0m
+[34mOakland[0m [34mOntario[0m [34mEvansville[0m [34mCharleston[0m [34mPaterson[0m [34mWaco[0m [34mCary[0m [34mSacramento[0m
+[34mKent[0m [34mLubbock[0m [34mGreensboro[0m [34mDurham[0m [34mScottsdale[0m [34mMacon[0m [34mLakewood[0m [34mJoliet[0m
+[34mManchester[0m [34mVacaville[0m [34mSpokane[0m [34mEdison[0m [34mFullerton[0m [34mPortland[0m [34mHollywood[0m
+[34mVictorville[0m [34mIrvine[0m [34mTopeka[0m [34mArlington[0m [31mROCHESTER[0m [34mChesapeake[0m [34mProvo[0m
+[34mAlbuquerque[0m [34mAbilene[0m [34mMurrieta[0m [34mBrownsville[0m [34mAugusta[0m [34mCarlsbad[0m [34mBuffalo[0m
+[34mClarksville[0m [34mEugene[0m [34mHartford[0m [34mDavenport[0m [34mGresham[0m [34mMilwaukee[0m [34mMesquite[0m
+[34mHialeah[0m [34mMidland[0m [34mWestminster[0m [34mElizabeth[0m [34mJackson[0m [34mLowell[0m [34mOdessa[0m [34mBoston[0m
+[34mCambridge[0m [34mElgin[0m [34mKenosha[0m [34mHouston[0m [34mPomona[0m [34mTampa[0m [34mConcord[0m [34mOceanside[0m
+[34mMcKinney[0m [34mProvidence[0m [34mTorrance[0m [34mLakeland[0m [34mDavie[0m [34mFresno[0m [34mTemecula[0m [34mBurbank[0m
+[34mPalmdale[0m [34mMadison[0m [34mLaredo[0m [34mTuscaloosa[0m [34mCentennial[0m [34mSpringfield[0m [34mWoodbridge[0m
+[34mClinton[0m [34mPlano[0m [34mBillings[0m [34mPearland[0m [34mClearwater[0m [34mRialto[0m [34mAntioch[0m [34mBoise[0m [34mNewark[0m
+[34mWarren[0m [34mTallahassee[0m [34mAthens[0m [31mcHattanooga[0m [34mTulsa[0m [34mCincinnati[0m [34mAllen[0m [34mClovis[0m
+
+[34mStamford[0m [34mSeattle[0m [34mGainesville[0m [34mWaterbury[0m [34mRichmond[0m [34mFremont[0m [34mTucson[0m
+[34mNashville[0m [34mTempe[0m [34mHampton[0m [34mBerkeley[0m [34mTacoma[0m [34mHillsboro[0m [34mHuntsville[0m [34mDowney[0m
+[34mOrlando[0m [34mYonkers[0m [34mEverett[0m [34mPueblo[0m [34mBeaumont[0m [34mGlendale[0m [34mNorfolk[0m [34mEscondido[0m
+[31mMcallen[0m [34mAnaheim[0m [34mSalem[0m [34mCorona[0m [34mRichardson[0m [34mPeoria[0m [34mBoulder[0m [34mMiramar[0m [34mRaleigh[0m
+[34mRoseville[0m [34mReno[0m [34mVentura[0m [34mIndependence[0m [34mMesa[0m [34mWorcester[0m [34mHayward[0m [34mIrving[0m
+[34mSunnyvale[0m [34mVista[0m [34mMobile[0m [34mGreeley[0m [34mMemphis[0m [34mWashington[0m [34mFairfield[0m [34mAurora[0m
+[34mToledo[0m [34mLansing[0m [34mPhiladelphia[0m [34mDallas[0m [34mJacksonville[0m [34mDenver[0m [34mDayton[0m [34mDetroit[0m
+[31mmontgomery[0m [34mIndianapolis[0m [34mKilleen[0m [34mArvada[0m [34mRiverside[0m

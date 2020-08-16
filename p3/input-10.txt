@@ -1,0 +1,8 @@
+The program is supposed to be able to handle lines of up to 75 characters. If
+a line is longer than that, it will just show the first 75 characters, then it will
+put ellipses at the end, to show that there was more of the line that it
+wasn't able to show.
+
+I'm trying to write this example so that it has a few lines longer than 75 characters,
+but no word gets broken by this 75-character limit.  For a word like that, we
+pretend we can't spellcheck it (since we don't save the whole word).

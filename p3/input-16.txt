@@ -1,0 +1,3 @@
+The program will never get a chance to look at this
+file, since the word lists we use with it give us too
+many total unique words.
