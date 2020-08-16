@@ -1,0 +1,1 @@
+usage: ugrep <pattern> [input-file.txt]
