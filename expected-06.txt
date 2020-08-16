@@ -1,4 +1,0 @@
-[31mabbc[0m
-[31ma--c[0m
-[31mabcc[0m
-text [31ma  c[0m more text
